@@ -11,6 +11,8 @@
 
 <p data-importer="text" align="left">A 3rd year BSCS student from Cebu Institute of Technology - University<br><br>> Currently learning Computer Science concepts, full stack development, game development, machine learning, and cyber security</p>
 
+<p data-importer="text" align="left"> > Open to learning anything and everything</p>
+
 ###
 
 <div data-importer="profile-views" align="center">
@@ -102,14 +104,21 @@
   </a>
 
   <img width="15" />
-  
-  <a href="https://github.com/eitophetamine9/AnchorPod">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eitophetamine9&repo=AnchorPod&theme=dracula" alt="Pinned Repository Card" />
+
+  <a href="https://github.com/eitophetamine9/Phlegmatic">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eitophetamine9&repo=Phlegmatic&theme=dracula" alt="Pinned Repository Card" />
   </a>
   <br><br>
   <a href="https://github.com/eitophetamine9/Babylon-Knowledge-Incremental">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=eitophetamine9&repo=Babylon-Knowledge-Incremental&theme=dracula" alt="Pinned Repository Card" />
   </a>
+
+  <img width="15" />
+
+  <a href="https://github.com/eitophetamine9/AnchorPod">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eitophetamine9&repo=AnchorPod&theme=dracula" alt="Pinned Repository Card" />
+  </a>
+  
 </div>
 
 
