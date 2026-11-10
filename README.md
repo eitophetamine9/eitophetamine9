@@ -80,11 +80,11 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/eitophetamine9/eitophetamine9/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-ten-mu-57.vercel.app/api?username=eitophetamine9&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&v=1" height="150" alt="stats graph"  />
   
   <img width="15" />
   
-  <img src="https://raw.githubusercontent.com/eitophetamine9/eitophetamine9/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-ten-mu-57.vercel.app/api/top-langs/?username=eitophetamine9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&v=1" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -99,26 +99,9 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/eitophetamine9/SpiritContractEvoIdle">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eitophetamine9&repo=SpiritContractEvoIdle&theme=dracula" alt="Pinned Repository Card" />
-  </a>
-
-  <img width="15" />
-
   <a href="https://github.com/eitophetamine9/Phlegmatic">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eitophetamine9&repo=Phlegmatic&theme=dracula" alt="Pinned Repository Card" />
+    <img src="https://github-readme-stats-ten-mu-57.vercel.app/api/pin/?username=eitophetamine9&repo=Phlegmatic&theme=dracula&v=1" alt="Pinned Repository Card" />
   </a>
-  <br><br>
-  <a href="https://github.com/eitophetamine9/Babylon-Knowledge-Incremental">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eitophetamine9&repo=Babylon-Knowledge-Incremental&theme=dracula" alt="Pinned Repository Card" />
-  </a>
-
-  <img width="15" />
-
-  <a href="https://github.com/eitophetamine9/AnchorPod">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eitophetamine9&repo=AnchorPod&theme=dracula" alt="Pinned Repository Card" />
-  </a>
-  
 </div>
 
 
