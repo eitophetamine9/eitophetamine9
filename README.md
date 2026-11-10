@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/be/60/65/be606509ced90fb856865219c74d26f9.gif" width="100%" alt="Profile Banner" />
+  <img src="banner.gif" width="100%" alt="Profile Banner" />
 </div>
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=800&size=30&center=true&vCenter=true&width=600&height=60&lines=Greetings+!+I'm+John+Erick+Santizo&color=8be9fd&duration=2200&pause=1000" alt="Typing Greeting" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=800&size=30&center=true&vCenter=true&width=600&height=60&lines=Greetings+!+I'm+John+Erick+Santizo&color=50fa7b&duration=2200&pause=1000" alt="Typing Greeting" />
 </div>
 
 ###
@@ -80,11 +80,15 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats-ten-mu-57.vercel.app/api?username=eitophetamine9&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&v=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-ten-mu-57.vercel.app/api?username=eitophetamine9&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&v=1" height="150" alt="stats graph"  />
   
   <img width="15" />
   
-  <img src="https://github-readme-stats-ten-mu-57.vercel.app/api/top-langs/?username=eitophetamine9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&v=1" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-ten-mu-57.vercel.app/api/top-langs/?username=eitophetamine9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&v=1" height="150" alt="languages graph"  />
+  
+  <br><br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eitophetamine9&theme=vue-dark&hide_border=false" height="150" alt="GitHub Streak" />
 </div>
 
 ###
@@ -95,12 +99,12 @@
 
 ###
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=800&size=20&center=true&vCenter=true&width=600&height=60&lines=Currently+Working+On+:&color=ff79c6&duration=2200&pause=1000" alt="Currently Working On" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=800&size=20&center=true&vCenter=true&width=600&height=60&lines=Currently+Working+On+:&color=50fa7b&duration=2200&pause=1000" alt="Currently Working On" />
 </div>
 
 <div align="center">
   <a href="https://github.com/eitophetamine9/Phlegmatic">
-    <img src="https://github-readme-stats-ten-mu-57.vercel.app/api/pin/?username=eitophetamine9&repo=Phlegmatic&theme=dracula&v=1" alt="Pinned Repository Card" />
+    <img src="https://github-readme-stats-ten-mu-57.vercel.app/api/pin/?username=eitophetamine9&repo=Phlegmatic&theme=vue-dark&v=1" alt="Pinned Repository Card" />
   </a>
 </div>
 
@@ -109,7 +113,7 @@
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=800&size=20&center=true&vCenter=true&width=600&height=60&lines=Jam+With+Me+:&color=bd93f9&duration=2200&pause=1000" alt="Jam With Me" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=800&size=20&center=true&vCenter=true&width=600&height=60&lines=Jam+With+Me+:&color=50fa7b&duration=2200&pause=1000" alt="Jam With Me" />
 </div>
 
 <div data-importer="music" align="center">
