@@ -21,7 +21,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://media1.tenor.com/m/gHND67sQD8oAAAAC/togame-togame-jo.gif"  />
+<img data-importer="image" align="right" height="150" src="raccoon.gif"  />
 
 ###
 
