@@ -8,9 +8,15 @@
 
 ###
 
-<p data-importer="text" align="left">A 3rd year BSCS student from Cebu Institute of Technology - University<br><br>> Currently learning Computer Science concepts, full stack development, game development, machine learning, and cyber security</p>
+<p data-importer="text" align="left">
+  3rd-year <b>BSCS</b> student at <b>Cebu Institute of Technology - University</b>
+</p>
 
-<p data-importer="text" align="left">> Open to learning anything and everything</p>
+<p data-importer="text" align="left">
+  <code>&gt;</code> <b>Focus:</b> Aspiring cybersecurity specialist, full-stack developer, and indie game creator<br>
+  <code>&gt;</code> <b>Building:</b> <i>Phlegmatic</i> (C++ and Raylib) alongside web and ML projects<br>
+  <code>&gt;</code> <b>Status:</b> Open to hackathons, internships, and collaborative builds
+</p>
 
 ###
 
