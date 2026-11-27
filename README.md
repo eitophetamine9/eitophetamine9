@@ -77,8 +77,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats-ten-mu-57.vercel.app/api?username=eitophetamine9&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&v=1" alt="stats graph" />&nbsp;&nbsp;
-  <img src="https://github-readme-stats-ten-mu-57.vercel.app/api/top-langs/?username=eitophetamine9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&v=1" alt="languages graph" />
+  <img src="https://github-readme-stats-ten-mu-57.vercel.app/api?username=eitophetamine9&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&cache_seconds=1800&v=2" alt="stats graph" />&nbsp;&nbsp;
+  <img src="https://github-readme-stats-ten-mu-57.vercel.app/api/top-langs/?username=eitophetamine9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vue-dark&hide_border=false&cache_seconds=1800&v=2" alt="languages graph" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eitophetamine9&theme=vue-dark&hide_border=false" alt="GitHub Streak" />
 </div>
@@ -95,7 +95,7 @@
 
 <div align="center">
   <a href="https://github.com/eitophetamine9/Phlegmatic">
-    <img src="https://github-readme-stats-ten-mu-57.vercel.app/api/pin/?username=eitophetamine9&repo=Phlegmatic&theme=vue-dark&v=1" alt="Phlegmatic Repository Card" />
+    <img src="https://github-readme-stats-ten-mu-57.vercel.app/api/pin/?username=eitophetamine9&repo=Phlegmatic&theme=vue-dark&cache_seconds=1800&v=2" alt="Phlegmatic Repository Card" />
   </a>
 </div>
 
@@ -107,13 +107,13 @@
 
 <div align="center">
   <a href="https://github.com/eitophetamine9/EiCube">
-    <img src="https://github-readme-stats-ten-mu-57.vercel.app/api/pin/?username=eitophetamine9&repo=EiCube&theme=vue-dark&v=1" alt="EiCube Repository Card" />
+    <img src="https://github-readme-stats-ten-mu-57.vercel.app/api/pin/?username=eitophetamine9&repo=EiCube&theme=vue-dark&cache_seconds=1800&v=2" alt="EiCube Repository Card" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/eitophetamine9/ISourceKo">
-    <img src="https://github-readme-stats-ten-mu-57.vercel.app/api/pin/?username=eitophetamine9&repo=ISourceKo&theme=vue-dark&v=1" alt="ISourceKo Repository Card" />
+    <img src="https://github-readme-stats-ten-mu-57.vercel.app/api/pin/?username=eitophetamine9&repo=ISourceKo&theme=vue-dark&cache_seconds=1800&v=2" alt="ISourceKo Repository Card" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/eitophetamine9/Phlegmatic">
-    <img src="https://github-readme-stats-ten-mu-57.vercel.app/api/pin/?username=eitophetamine9&repo=Phlegmatic&theme=vue-dark&v=1" alt="Phlegmatic Repository Card" />
+    <img src="https://github-readme-stats-ten-mu-57.vercel.app/api/pin/?username=eitophetamine9&repo=Phlegmatic&theme=vue-dark&cache_seconds=1800&v=2" alt="Phlegmatic Repository Card" />
   </a>
 </div>
 
